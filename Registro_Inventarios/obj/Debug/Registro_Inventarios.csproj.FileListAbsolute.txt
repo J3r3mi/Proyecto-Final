@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Registro_Inventarios\Registro_Inventarios\bin\Debug\Registro_Inventarios.exe.config
+C:\Users\HP\source\repos\Registro_Inventarios\Registro_Inventarios\bin\Debug\Registro_Inventarios.exe
+C:\Users\HP\source\repos\Registro_Inventarios\Registro_Inventarios\bin\Debug\Registro_Inventarios.pdb
+C:\Users\HP\source\repos\Registro_Inventarios\Registro_Inventarios\obj\Debug\Registro_Inventarios.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Registro_Inventarios\Registro_Inventarios\obj\Debug\Registro_Inventarios.Form1.resources
+C:\Users\HP\source\repos\Registro_Inventarios\Registro_Inventarios\obj\Debug\Registro_Inventarios.Properties.Resources.resources
+C:\Users\HP\source\repos\Registro_Inventarios\Registro_Inventarios\obj\Debug\Registro_Inventarios.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Registro_Inventarios\Registro_Inventarios\obj\Debug\Registro_Inventarios.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Registro_Inventarios\Registro_Inventarios\obj\Debug\Registro_Inventarios.exe
+C:\Users\HP\source\repos\Registro_Inventarios\Registro_Inventarios\obj\Debug\Registro_Inventarios.pdb
+C:\Users\HP\source\repos\Registro_Inventarios\Registro_Inventarios\obj\Debug\Registro_Inventarios.Vistas.FormLogin.resources
